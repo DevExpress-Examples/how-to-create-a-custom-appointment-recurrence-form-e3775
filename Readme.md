@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomRecurrenceForm.xaml](./CS/SilverlightApplication1/CustomRecurrenceForm.xaml) (VB: [CustomRecurrenceForm.xaml](./VB/SilverlightApplication1/CustomRecurrenceForm.xaml))
+* [CustomRecurrenceForm.xaml.cs](./CS/SilverlightApplication1/CustomRecurrenceForm.xaml.cs) (VB: [CustomRecurrenceForm.xaml](./VB/SilverlightApplication1/CustomRecurrenceForm.xaml))
+* [MainPage.xaml](./CS/SilverlightApplication1/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightApplication1/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/SilverlightApplication1/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/SilverlightApplication1/MainPage.xaml))
+<!-- default file list end -->
 # How to create a custom Appointment Recurrence form
 
 
